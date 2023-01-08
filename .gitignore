@@ -1,0 +1,4 @@
+chats/
+settings.json
+*.session
+*.session-journal
